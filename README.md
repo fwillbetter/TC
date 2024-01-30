@@ -1,5 +1,5 @@
 
-# Research On Speaker Timber Conversion Method Based On PPG 
+# Research On Speaker Timbre Conversion Method Based On PPG 
 
 模型体系结构
 
